@@ -66,7 +66,7 @@ if _G.TaoCuttay then
     h["CuttayV4"] = true
 end
 HttpService = game:GetService("HttpService")
-local i = "Adel Hub"
+local i = "NTB Hub"
 local j = "-BloxFruit.json"
 local l = game.Players.LocalPlayer.Name .. j
 if Adel then
@@ -335,9 +335,9 @@ concacsss = Adel and "Adel" or "YMF"
 local A =
     z:MakeWindow(
     {
-        Name = "Blox Fruit (Adel Hub)",
+        Name = "NTB HUB by Nguyễn Thế Bảo",
         IntroEnabled = false,
-        IntroText = "Adel Hub Library",
+        IntroText = "NTB Hub Library",
         IntroIcon = "rbxassetid://13779309461",
         HidePremium = false,
         SaveConfig = false,
